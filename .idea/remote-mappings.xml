@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://webw2@172.18.11.1:3252/data/webw2/.conda/envs/multi-task/bin/python3.8" />
+      </list>
+    </list>
+  </component>
+</project>
